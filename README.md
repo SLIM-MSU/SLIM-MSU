@@ -6,8 +6,8 @@
 
 - [Learning Sparsifying Transforms using closed-form gradients](https://github.com/SLIM-MSU/learnreg)
 - [Optimal Eye Surgeon (ICML-2024)](https://github.com/SLIM-MSU/Optimal-Eye-Surgeon)
-- [SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling (TMI 2023)](https://github.com/SLIM-MSU/SMUG_journal): https://arxiv.org/abs/2303.12735
-- [MRI local and global with model recon](https://github.com/SLIM-MSU/Multi_coil_local_model): https://arxiv.org/abs/2104.05028
+- [SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling (TMI 2023)](https://github.com/SLIM-MSU/SMUG_journal), Paper at https://arxiv.org/abs/2303.12735
+- [MRI local and global with model recon](https://github.com/SLIM-MSU/Multi_coil_local_model), Paper at https://arxiv.org/abs/2104.05028
 - [Self-Guided-DIP](https://github.com/SLIM-MSU/Self-Guided-DIP)
 - [Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction](https://github.com/SLIM-MSU/adversarial-purification-for-MRI)
 - [Learned BM](https://github.com/SLIM-MSU/learned_BM)
