@@ -5,10 +5,10 @@
 - :point_down: Check out some of our work:
 
 
-- [SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling](https://github.com/SLIM-MSU/SMUG_journal), Paper at: https://ieeexplore.ieee.org/document/10097193
-- [Blind Primed Supervised (BLIPS) Learning for MR Image Reconstruction](https://github.com/SLIM-MSU/Multi_coil_local_model), Paper at: https://ieeexplore.ieee.org/document/9468882
-- [Single-Pass Object-Adaptive Data Undersampling and Reconstruction for MRI](https://github.com/SLIM-MSU/mri), Paper at: https://ieeexplore.ieee.org/document/9757874
-- [Sparse-view cone beam CT reconstruction using data-consistent supervised and adversarial learning from scarce training data](https://github.com/SLIM-MSU/SparseViewCT-TCI), Paper at: https://ieeexplore.ieee.org/document/10008080, https://arxiv.org/pdf/2201.09318
+- [SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling](https://github.com/SLIM-MSU/SMUG_journal), Paper at: https://ieeexplore.ieee.org/document/10097193 & https://arxiv.org/abs/2303.12735
+- [Blind Primed Supervised (BLIPS) Learning for MR Image Reconstruction](https://github.com/SLIM-MSU/Multi_coil_local_model), Paper at: https://ieeexplore.ieee.org/document/9468882 & https://arxiv.org/abs/2104.05028
+- [Single-Pass Object-Adaptive Data Undersampling and Reconstruction for MRI](https://github.com/SLIM-MSU/mri), Paper at: https://ieeexplore.ieee.org/document/9757874 & https://arxiv.org/abs/2111.09212
+- [Sparse-view cone beam CT reconstruction using data-consistent supervised and adversarial learning from scarce training data](https://github.com/SLIM-MSU/SparseViewCT-TCI), Paper at: https://ieeexplore.ieee.org/document/10008080 & https://arxiv.org/pdf/2201.09318
 
 <!---
 SLIM-MSU/SLIM-MSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
