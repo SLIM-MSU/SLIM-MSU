@@ -1,5 +1,5 @@
 - 👋 Hi, we are a team of researchers led by **Dr. Saiprasad (Sai) Ravishankar** in the Department of Computational Mathematics, Science and Engineering at **Michigan State University**.
-- 🌱 We work on problems in **computational imaging, image reconstruction, machine learning, signal processing, and optimization**.
+- 🌱 We work on problems in **imaging, image reconstruction, machine learning, signal processing, neuroscience, and optimization.**
 - 👀 SLIM focuses particularly on **smart imaging systems** with the development of models and **machine learning methods & theory**, forming a bedrock of some of the group’s efforts.
 - 📫 Reach us at slim.msu@gmail.com
 - :point_down: Check out some of our work:
